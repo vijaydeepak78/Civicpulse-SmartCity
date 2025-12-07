@@ -1,3 +1,4 @@
+This project is customized and maintained by Vijay Deepak.
 # 🏙️ CivicPulse – Smart City Grievance & Feedback Management Portal
 
 A **citizen-centric web portal** designed for **real-time grievance reporting, issue tracking, and civic feedback collection** to bridge the gap between citizens and municipal authorities.
